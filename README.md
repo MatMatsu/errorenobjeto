@@ -1,0 +1,2 @@
+# errorenobjeto
+Resolución del ejercicio
